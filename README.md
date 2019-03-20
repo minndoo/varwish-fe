@@ -13,6 +13,6 @@ yarn install
 yarn start
 ```
 
-nvm use will change your nodejs version accordingly
-yarn install will install all the dependencies
-yarn start will serve your app on https://localhost:3000
+* `nvm use` will change your nodejs version accordingly
+* `yarn install` will install all the dependencies
+* `yarn start` will serve your app on https://localhost:3000
