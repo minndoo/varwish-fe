@@ -38,7 +38,10 @@ yarn start
 ---IMPORTANT NOTES---
 * before working with packages in the project, make sure you work in the same nodejs version
 
-  always make sure that you run nvm use before starting app or adding/building packages
+  always make sure that you run `nvm use` before starting app or adding/building packages
+  
+  try to remember this so you won't run into any issues
+  
 * if you are going to install a 3rd party package/library always use yarn instead of npm,
 
   if you see `npm install <some package>` to install the package, replace the npm with yarn
